@@ -1,6 +1,6 @@
 # 微信小程序 Hook
 
-hook 小程序组件（App, Page, Component）的方法。
+拦截增强小程序（App, Page, Component）的组件方法。
 
 # Deprecated 
 
